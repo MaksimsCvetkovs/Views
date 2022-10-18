@@ -10,25 +10,34 @@
 <body>
     <div class="container">
         <h1>Suppliers</h1>
+
+        <a class="btn mt-10 mb-10" href="3-create-supplier">Create</a>
+
         <div class="list-items">
-            <div class="list-item">
-                <img src="images/test-1.png" alt="images/test-1.png">
-                <div class="list-item-content">
-                    <h3>TEST1</h3>
+            <a href="4-view-supplier.php">
+                <div class="list-item">
+                    <img src="images/test-1.png" alt="images/test-1.png">
+                    <div class="list-item-content">
+                        <h3>TEST1</h3>
+                    </div>
                 </div>
-            </div>
-            <div class="list-item">
-                <img src="images/test-2.png" alt="images/test-2.png">
-                <div class="list-item-content">
-                    <h3>TEST2</h3>
+            </a>
+            <a href="4-view-supplier.php">
+                <div class="list-item">
+                    <img src="images/test-2.png" alt="images/test-2.png">
+                    <div class="list-item-content">
+                        <h3>TEST2</h3>
+                    </div>
                 </div>
-            </div>
-            <div class="list-item">
-                <img src="images/test-3.png" alt="images/test-3.png">
-                <div class="list-item-content">
-                    <h3>TEST3</h3>
+            </a>
+            <a href="4-view-supplier.php">
+                <div class="list-item">
+                    <img src="images/test-3.png" alt="images/test-3.png">
+                    <div class="list-item-content">
+                        <h3>TEST3</h3>
+                    </div>
                 </div>
-            </div>
+            </a>
         </div>
     </div>
 </body>
